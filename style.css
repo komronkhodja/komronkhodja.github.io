@@ -1,0 +1,29 @@
+h1{
+	font-family: Forte;
+	text-align: center;
+    color: rgb(100, 120, 170);
+    font-size: 65px;
+    
+}
+p{
+	font-family: Harrington;
+	font-size: 35px;
+	color: lightblue;
+}
+li{
+	font-size: 50px;
+	color: white;
+	text-align: center;
+
+
+}
+a{
+font-family: Stencil;
+	color: brown;
+	font-size: 30px;
+text-align: center;
+} 
+div{
+	width: 700px;
+	margin:auto;
+}
